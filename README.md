@@ -7,7 +7,7 @@
 
 <br/>
 
-<a href="https://portfolio-vedant-azure.vercel.app/" target="_blank">
+<a href="https://portfolio-vedant-umap.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -136,6 +136,65 @@ motto: "I build backend systems that actually run."
 - Implemented role-based access control for admins and moderators
 - Built CSV & JSON bulk data upload functionality
 - **Tech Stack:** Java, Spring Boot, REST APIs, MySQL, Authentication
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-Umap&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedant-Umap&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedant-Umap&theme=tokyonight" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vedant-Umap&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vedant-Umap&theme=tokyonight" alt="Stats" width="32%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vedant-Umap&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Umap&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA" alt="Contribution Graph" width="49%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Total_Repos-10+-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Public_Repos-10+-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Total_Commits-50+-blue?style=for-the-badge&logo=git&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/2025_Commits-50+-orange?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Active_Developer-Yes-success?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Hackathon_Finalist-CyberHack_2025-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
