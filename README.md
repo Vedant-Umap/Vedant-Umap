@@ -112,11 +112,16 @@ motto: "I build backend systems that actually run."
 
 <div align="center">
 
-<a href="https://github.com/Vedant-Umap">
-  <img src="https://img.shields.io/badge/🚀_Smart_Ordering_System-Java_Spring_Boot-3B82F6?style=for-the-badge" />
+<a href="https://github.com/Vedant-Umap/Demand-Supply-Forecasting">
+  <img src="https://img.shields.io/badge/🚀_Vayuastra-AI_Demand_Forecasting_Ecosystem-3B82F6?style=for-the-badge" />
 </a>
-<a href="https://github.com/Vedant-Umap">
-  <img src="https://img.shields.io/badge/🔍_Fake_Account_Detection-CyberHack_Finalist-FF6B6B?style=for-the-badge" />
+
+<a href="https://github.com/Vedant-Umap/Repo-Analyzer">
+  <img src="https://img.shields.io/badge/🧠_Repo_Analyzer-Codebase_Intelligence_System-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Vedant-Umap/Full-Stack-AI">
+  <img src="https://img.shields.io/badge/⚡_Full_Stack_AI_Integration-End_to_End_AI_Workflows-10B981?style=for-the-badge" />
 </a>
 
 </div>
@@ -125,17 +130,18 @@ motto: "I build backend systems that actually run."
 
 ### 🏆 Project Highlights
 
-**Smart Ordering System (Java/Spring Boot) - Nov 2025**
-- Developed a full-stack ordering platform utilizing Design Patterns for modularity and architectural scalability
-- Built real-time billing engine that calculates taxes and subtotals instantly upon item modification
-- Integrated AI-driven suggestion engine with simulated Chef Interface for end-to-end order lifecycle management
-- **Tech Stack:** Java, Spring Boot, MySQL, Design Patterns, REST APIs
+#### 🚀 Vayuastra — AI Demand Forecasting Ecosystem
 
-**Fake Account Detection Platform - Feb 2025**
-- Led development of login, signup, report, and flagged-account APIs (CyberHack 2025 Finalist)
-- Implemented role-based access control for admins and moderators
-- Built CSV & JSON bulk data upload functionality
-- **Tech Stack:** Java, Spring Boot, REST APIs, MySQL, Authentication
+Built an end-to-end AI-powered forecasting ecosystem for intelligent demand prediction and analytics — helped secure a win at **Promptathon 2026**.
+
+#### 🧠 Repo Analyzer — Codebase Intelligence System
+
+Developed an AI-powered repository analysis platform capable of understanding large codebases, generating insights, and improving developer productivity.
+
+#### ⚡ Full Stack AI Integration — End-to-End AI Workflows
+
+Integrated AI capabilities across frontend, backend, and APIs to build intelligent full-stack systems using scalable backend architecture and modern AI tooling.
+
 
 <br/>
 
